@@ -1,0 +1,14 @@
+.imagen{
+    border-radius: 20%;
+    height: 250px;
+}
+
+.titulo{
+    font-weight: bold;
+    text-transform:uppercase;
+    text-align: center;
+}
+.Paisaje1{
+    width: 150px;
+    border: 3px;
+}
